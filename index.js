@@ -1,9 +1,6 @@
 module.exports = {
     defaultSeverity: 'warning',
     extends: ['tslint:recommended'],
-    linterOptions: {
-        exclude: ['node_modules/**'],
-    },
     rules: {
         'adjacent-overload-signatures': true,
         'member-access': [true, 'no-public'],
