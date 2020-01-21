@@ -1,8 +1,8 @@
 {
-  "name": "@veake/tslint-config",
+  "name": "@m-ripper/tslint-config",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Max Ripper (@Veake)",
+  "author": "Max Ripper (@m-ripper)",
   "license": "MIT",
   "private": false,
   "peerDependencies": {
